@@ -1,16 +1,35 @@
-## Hi there 👋
+# Greg Percifield
 
-<!--
-**greg-percifield/greg-percifield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology executive and senior PHP/WordPress developer with extensive experience building custom plugins, integrations, and business systems in Linux-based web environments.
 
-Here are some ideas to get you started:
+I enjoy turning messy real-world processes into practical tools, cleaner workflows, and reliable systems that support growth and day-to-day operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- PHP
+- WordPress
+- JavaScript
+- MySQL
+- REST APIs
+- Linux / LAMP environments
+- Custom plugins and workflow automation
+- Business systems and operational tooling
+
+## What I care about
+
+- Practical software that solves real business problems
+- Clean, maintainable code
+- Thoughtful UX for internal tools
+- Integrations that reduce manual work and improve reliability
+
+## Selected work
+
+I’m in the process of publishing selected public examples of my work here.
+
+## Background
+
+I’ve spent years working at the intersection of engineering, operations, and leadership, building tools that support sales, reporting, automation, scheduling, and day-to-day business workflows.
+
+## Contact
+
+- GitHub: [@greg-percifield](https://github.com/greg-percifield)
