@@ -24,7 +24,7 @@ I enjoy turning messy real-world processes into practical tools, cleaner workflo
 
 ## Selected work
 
-I’m in the process of publishing selected public examples of my work here.
+- [UM Songs Played Manager](https://github.com/greg-percifield/um-songs-played-manager) - WordPress plugin for Ultimate Member with structured song management, duplicate review, starter lists, and webhook support.
 
 ## Background
 
