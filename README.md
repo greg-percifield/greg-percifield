@@ -28,7 +28,7 @@ I’m in the process of publishing selected public examples of my work here.
 
 ## Background
 
-I’ve spent years working at the intersection of engineering, operations, and leadership, building tools that support sales, reporting, automation, scheduling, and day-to-day business workflows.
+I’ve spent years working at the intersection of engineering, operations, and leadership, building tools that support automation, reporting, workflows, scheduling, and day-to-day business operations.
 
 ## Contact
 
