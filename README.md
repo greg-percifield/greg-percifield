@@ -33,3 +33,4 @@ I’ve spent years working at the intersection of engineering, operations, and l
 ## Contact
 
 - GitHub: [@greg-percifield](https://github.com/greg-percifield)
+- LinkedIn: [greg-percifield](https://www.linkedin.com/in/greg-percifield/)
