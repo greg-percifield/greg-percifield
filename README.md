@@ -24,6 +24,7 @@ I enjoy turning messy real-world processes into practical tools, cleaner workflo
 
 ## Selected work
 
+- [Secure ACH Vault](https://github.com/greg-percifield/secure-ach-vault) - WordPress plugin sample focused on secure ACH collection, encrypted-at-rest storage, expiring one-time access links, role-based reporting, and workflow automation.
 - [UM Songs Played Manager](https://github.com/greg-percifield/um-songs-played-manager) - WordPress plugin for Ultimate Member with structured song management, duplicate review, starter lists, and webhook support.
 
 ## Background
